@@ -871,7 +871,7 @@ body{
  }
 
 
-@media (width >= 1201px)  and (width <= 1400px) { 
+@media (min-width : 1201px){ 
     body{
         margin: 8rem;
     }
